@@ -164,10 +164,10 @@
       { username: "tuanphat", password: "26072009", code: "Phát là một trong số ít các bạn nam ngoan mà học giỏi của lớp, cũng đẹp trai nữa. Chúc cho Phát luôn giữ được tinh thần đó trong học tập, ngày càng thành công nha" },
       { username: "lamphuong", password: "23122009", code: "688" },
       { username: "thienthanh", password: "09092009", code: "Thanh thể hiện rất tốt trên lớp, chịu khó nghe giảng, xinh gái nữa. Giữ hình tượng tốt đó nha con gái, chúc con học tập ngày cang tiến bộ, thành công nhe" },
-      { username: "thuthao", password: "09022009", code: "539" },
+      { username: "thuthao", password: "09022009", code: "Thảo rất hiền, hiểu chuyện, chăm học. Những lúc cả lớp mất trật tự chỉ có Thảo và một vài bạn là tập trung nghe giảng, thầy rất quý tinh thần học tập đó của Thảo. Chúc cho Thảo luôn giữ được sự chăm học đó và cố gắng hết mình để đạt được ước mơ làm cô giáo nhee" },
       { username: "thanhtu", password: "09102009", code: "Tú trên lớp hơi trầm tính, nhưng kiến thức xã hội tốt, hay xung phong phát biểu. Cố gắng phát huy nha Tú, thầy chúc Tú học ngày càng giỏi nhe" },
       { username: "xuanvy", password: "25082009", code: "Xuân Vy thầy ít giao tiếp nhưng cảm nhận con rất tốt bụng với bạn bè. Cố gắng học tập tốt hơn nữa nha Vy, chúc con sẽ thành công trong cuộc sống nè " },
-      { username: "user24", password: "pass24", code: "286" },
+      { username: "haiyen", password: "21102009", code: "Yến chuyển trường th buồn quá tr buồn. Con là một trong những bạn thầy quý nhất trong năm học này, đẹp gái, học giỏi, còn hiểu chuyện. Tiếc thì tiếc chớ thầy cũng chúc cho Hải Yến luôn rực rỡ trên con đường mà mình chọn. Giữ gìn sức khỏe, học thật tốt ở môi trường mới nha con gái" },
       { username: "user25", password: "pass25", code: "105" }
     ];
 
